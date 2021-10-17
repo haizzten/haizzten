@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @haizzten
-- 👀 I’m interested in BD
+- 👀 I’m interested in BE
 - 🌱 I’m currently learning C#
 
 <!---
